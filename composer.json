@@ -5,8 +5,7 @@
 	"authors": [
 		{
 			"name": "Anthony Bluemel",
-			"email": "anthony.bluemel@vectordigital.io",
-			"homepage": ""
+			"email": "anthony.bluemel@vectordigital.io"
 		}
 	],
 	"autoload": {
